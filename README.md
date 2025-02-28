@@ -7,7 +7,7 @@ While this project could be simplified with a microcontroller, such as an ATtiny
 [schematic](Schematic.pdf)
 
 ## PCB
-![Front](images/FumeExtractor(Front).png)
+<img src="images/FumeExtractor(Front).png" width="50%" />
 ![Back](images/FumeExtractor(Back).png)
 
 ## 3D Model
