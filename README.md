@@ -10,6 +10,9 @@ While this project could be simplified with a microcontroller, such as an ATtiny
 ![Front](images/FumeExtractor(Front).png)
 ![Back](images/FumeExtractor(Back).png)
 
+## 3D Model
+![CAD](images/Model.png)
+
 ## Final Product
 ![PCB(Front)](images/PCB_Front.jpg)
 ![PCB(Back)](images/PCB_Back.jpg)
