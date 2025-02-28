@@ -14,6 +14,6 @@ While this project could be simplified with a microcontroller, such as an ATtiny
 <img src="images/Model.png" width="50%" />
 
 ## Final Product
-<img src="images/PCB_Front.png" width="50%" />
-<img src="images/PCB_Back.png" width="50%" />
-<img src="images/Demo.png" width="50%" />
+<img src="images/PCB_Front.jpg" width="50%" />
+<img src="images/PCB_Back.jpg" width="50%" />
+<img src="images/Demo.jpg" width="50%" />
